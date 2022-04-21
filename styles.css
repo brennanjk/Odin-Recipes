@@ -10,3 +10,9 @@
     font-style: italic;
     text-align: center;
 }
+
+.list-links {
+    color: darkblue;
+    font-size: 30px;
+    font: "calibri";
+}
