@@ -28,3 +28,11 @@
     width: 600px;
     height: auto;
 }
+
+h2,
+h3 {
+    color: rgb(37, 25, 116);
+    background-color: beige;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
